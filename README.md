@@ -68,10 +68,10 @@ Markdown uses `#` symbols for headers:
 ## **Links and Images**
 ```markdown
 [Link Text](https://example.com)
-![Image Alt Text](https://via.placeholder.com/150)
+![Image Alt Text](https://placehold.co/150)
 ```
 [Link Example](https://example.com)  
-![Image Example](https://via.placeholder.com/150)
+![Image Example](https://placehold.co/150)
 
 ---
 
